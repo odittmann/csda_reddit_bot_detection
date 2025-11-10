@@ -10,4 +10,4 @@ dependencies:
   - seaborn
   - pip
   - pip:
-      # Add any pip-only packages here if needed
+      - zstandard
