@@ -16,6 +16,9 @@ Detecting Coordinated Troll Farm Activity on Reddit r/Conservative during the 20
 - **suspicious_accounts_network_analysis.csv**  
   CSV containing accounts flagged as suspicious based on network analysis.
 
+- **suspicious_user_rank_normalized.csv**
+- Rank normalized Activity Score for suspicious users
+
 - **Data_Extraction.ipynb**  
   Imports data from `.zst` files, cleans it, and exports to CSV.
   
@@ -24,6 +27,8 @@ Detecting Coordinated Troll Farm Activity on Reddit r/Conservative during the 20
 
 - **Network_and_High_Activity_Code.ipynb**
   Script doing the network analysis on the dataset.
+
+
 
 
 ## Setup
