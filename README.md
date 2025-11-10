@@ -8,7 +8,7 @@ Detecting Coordinated Troll Farm Activity on Reddit r/Conservative during the 20
   Conda environment file for setting up the project dependencies.
 
 - **conservative_sept_nov_2024_clean.csv**  
-  Cleaned dataset ready for analysis. Because of Github limits, only the first ~1000 lines are included
+  Cleaned dataset ready for analysis. Because of Github limits, only the first ~600 lines are included
 
 - **suspicious_accounts_posting_patterns.csv**  
   CSV containing accounts flagged as suspicious based on posting patterns.
