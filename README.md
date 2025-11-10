@@ -22,6 +22,8 @@ Detecting Coordinated Troll Farm Activity on Reddit r/Conservative during the 20
 - **posting_patterns_analysis.py**  
   Script for analyzing posting patterns in the dataset.
 
+- **Network_and_High_Activity_Code.ipynb**
+  Script doing the network analysis on the dataset.
 
 
 ## Setup
